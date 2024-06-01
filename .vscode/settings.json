@@ -1,27 +1,5 @@
 {
-  "auto-rename-tag.activationOnLanguage": [
-    "*"
-  ],
-  "files.eol": "\n",
-  "editor.tabSize": 2,
-  "editor.tabCompletion": "on",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "explicit"
-  },
-  "editor.formatOnSave": true,
-  "[typescript]": {
-    // "editor.defaultFormatter": "esbenp.prettier-vscode",
-  },
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact"
-  ],
-  "eslint.format.enable": false,
   "eslint.useESLintClass": true,
-  "typescript.format.enable": false,
-  "javascript.format.enable": false,
   "eslint.options": {
     "overrideConfigFile": "eslint.config.mjs"
   }
