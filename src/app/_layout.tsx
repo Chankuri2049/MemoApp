@@ -1,8 +1,8 @@
-import { Slot } from 'expo-router'
+import { Stack } from 'expo-router'
 import React from 'react'
 
 const Layout = () => {
-  return <Slot />
+  return <Stack />
 }
 
 export default Layout
