@@ -7,7 +7,7 @@ const Layout = () => {
       backgroundColor: '#467FD3'
     },
     headerTintColor: '#ffffff',
-    headerTitle: 'Meomo App',
+    headerTitle: 'Memo App',
     headerBackTitle: 'back',
     headerTitleStyle: {
       fontSize: 22,
